@@ -9,7 +9,12 @@ keywords:
         lorenz: 1
         autonomic nervous: 2
         electrodermal: 2
-        covid-19: 2
-
+        nanopore: 3
+        optical: 3
+        nano: 3
+        photonics: 3
+        plasmon: 3
+        near field:2
+        
 # 通知の閾値
 score_threshold: 2
