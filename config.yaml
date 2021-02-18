@@ -14,7 +14,7 @@ keywords:
         nano: 3
         photonics: 3
         plasmon: 3
-        near field:2
+        near field: 2
         
 # 通知の閾値
 score_threshold: 2
