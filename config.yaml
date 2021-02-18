@@ -9,6 +9,7 @@ keywords:
         lorenz: 1
         autonomic nervous: 2
         electrodermal: 2
+        covid-19: 2
 
 # 通知の閾値
 score_threshold: 2
