@@ -1,11 +1,14 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:physics.* OR cat:cs.* OR cat:nlin.CD OR cat:q-bio.* OR cat:eess.* OR cat:stat.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        heart rate: 2
+        depression: 2
+        poincare: 1
+        lorenz: 1
+        autonomic nervous: 2
+        electrodermal: 2
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
